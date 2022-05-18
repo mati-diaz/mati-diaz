@@ -6,7 +6,7 @@ Hello! I am a full stack developer working mainly with React and NodeJs
 <a href="https://www.linkedin.com/in/mati-diaz/">
 <img align="left" alt="Matias Diaz Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=50&color=2a6ecb" />
 </a>
-<a href="https://portfolio-mdr.vercel.app/">
+<a href="https://portfolio-mdr.vercel.app/" target="blank">
 <img align="left" alt="Matias Diaz Portfolio" width="22px" src="https://icongr.am/fontawesome/link.svg?size=50&color=2a6ecb" />
 </a>
 
