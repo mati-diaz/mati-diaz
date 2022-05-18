@@ -10,9 +10,10 @@ Visit my [portfolio](https://portfolio-mdr.vercel.app/) to learn more about me a
 
 
 
-***
+___
 
 ### My Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mati-diaz&show_icons=true&bg_color=0e1117&text_color=c9d1d9&include_all_commits=true)](https://github.com/mati-diaz/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mati-diaz&layout=compact&show_icons=true&bg_color=0e1117&text_color=c9d1d9)](https://github.com/mati-diaz/github-readme-stats)
