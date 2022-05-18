@@ -1,16 +1,17 @@
-## Welcome!
-
+## Welcome! 
 Hello! I am a full stack developer working mainly with React and NodeJs
-  
-  
-          
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mati-diaz/">
+<img align="left" alt="Matias Diaz Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=50&color=ededed" />
+</a>
+
 ## My Portfolio
 
 Visit my [portfolio](https://portfolio-mdr.vercel.app/) to learn more about me and access a summary of my main projects
 
-
-
-___
+***
 
 ### My Stats
 
