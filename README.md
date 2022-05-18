@@ -30,8 +30,8 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mati-diaz&show_icons=true&bg_color=0e1117&text_color=c9d1d9&include_all_commits=true&theme=dark&background=0E1117" alt="mati-diaz" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mati-diaz&show_icons=true&bg_color=0e1117&text_color=c9d1d9&include_all_commits=true" alt="mati-diaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mati-diaz&show_icons=true&bg_color=0e1117&text_color=c9d1d9&include_all_commits=true&theme=dark&background=0E1117" alt="mati-diaz" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mati-diaz&show_icons=true&bg_color=0e1117&text_color=c9d1d9&include_all_commits=true&layout=compact" alt="mati-diaz" /></p>
