@@ -1,12 +1,12 @@
-<h1 align=center>Matias Diaz - FullStack Developer</h1>
+<h1>Matias Diaz - FullStack Developer</h1>
 
-<p align=center>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+<p>
+<a href="mailto:matidiazruiz42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </p>
 
-<h2 align=center>Languajes and Tools:</h2>
+<h2>Languajes and Tools:</h2>
 <p>
 <img alt="Git" src="https://img.shields.io/badge/JavaScript-3883c2?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
 <img alt="Git" src="https://img.shields.io/badge/TypeScript-3883c2?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
@@ -24,7 +24,7 @@
 
 ---
 
-<p align=center>
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mati-diaz&bg_color=0e1117&text_color=ffffff&show_icons=true" />
 </a>
