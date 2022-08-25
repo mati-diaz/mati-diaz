@@ -25,11 +25,11 @@
 ---
 
 <p>
-<a href="#">
+<a href="#" align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=mati-diaz&bg_color=0e1117&text_color=ffffff&show_icons=true" />
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mati-diaz&layout=compact&bg_color=0e1117&text_color=ffffff&show_icons=true" />
+<a href="#" align=right>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mati-diaz&layout=compact&bg_color=0e1117&text_color=ffffff&show_icons=true" />
 </a>
 </p>
 
