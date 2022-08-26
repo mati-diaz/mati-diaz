@@ -26,10 +26,10 @@
 
 <p>
 <a href="#" align=left>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mati-diaz&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mati-diaz&show_icons=true&theme=github_dark&border_color=31363d" />
 </a>
 <a href="#" align=right>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mati-diaz&layout=compact&bg_color=0e1117&text_color=ffffff&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mati-diaz&layout=compact&bg_color=0e1117&text_color=ffffff&show_icons=true&border_color=31363d" />
 </a>
 </p>
 
