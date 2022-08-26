@@ -1,4 +1,4 @@
-<h1>Matias Diaz - FullStack Developer</h1>
+<h2>Matias Diaz - FullStack Developer</h2>
 
 <p>
 <a href="mailto:matidiazruiz42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
