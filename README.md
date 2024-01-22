@@ -22,11 +22,7 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/MySQL-3883c2?style=for-the-badge&logo=mysql&logoColor=FFFFFF" /></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-3883c2?style=for-the-badge&logo=git&logoColor=FFFFFF" /></a>
 </p>
-  
-<h1>My Stats:</h1>
-<a href="#" align=left>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mati-diaz&show_icons=true&theme=github_dark&border_color=31363d" />
-</a>
+
 <a href="#" align=right>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mati-diaz&layout=compact&bg_color=0e1117&text_color=ffffff&show_icons=true&border_color=31363d" />
 </a>
